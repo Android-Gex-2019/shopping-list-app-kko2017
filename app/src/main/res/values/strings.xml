@@ -1,3 +1,31 @@
+<!--file: strings.xml-->
+<!--author: KwangEun Oh-->
+<!--date: Feb. 7, 2019-->
+<!--Type: Assignment1 -->
+
 <resources>
     <string name="app_name">Shopping List</string>
+    <string name="add_item">Add Item</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="fist_item">Fist Item</string>
+    <string name="second_item">Second Item</string>
+    <string name="third_item">Third Item</string>
+    <string name="fourth_item">Fourth Item</string>
+    <string name="fifth_item">Fifth Item</string>
+    <string name="sixth_item">Sixth Item</string>
+    <string name="seventh_item">Seventh Item</string>
+    <string name="eighth_item">Eighth Item</string>
+    <string name="ninth_item">Ninth Item</string>
+    <string name="tenth_item">Tenth Item</string>
+    <string name="lemon_btn">Lemon</string>
+    <string name="apple_btn">Apple</string>
+    <string name="banana_btn">Banana</string>
+    <string name="orange_btn">Orange</string>
+    <string name="kiwi_btn">Kiwi</string>
+    <string name="rice_btn">Rice</string>
+    <string name="wheat_btn">Wheat</string>
+    <string name="tomato_btn">Tomato</string>
+    <string name="melon_btn">Melon</string>
+    <string name="mandarin_btn">Mandarin</string>
+
 </resources>
